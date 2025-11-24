@@ -2,7 +2,7 @@
 set -e
 
 # Clone target repo
-git clone https://fredsuiopaweszxkguqopzx-admin@bitbucket.org/fredsuiopaweszxkguqopzxes/us-ac-v1-003-of-one.git /tmp/repo
+git clone https://fredsuiopaweszxkguqopzx-admin@bitbucket.org/fredsuiopaweszxkguqopzxes/us-ac-v1-004-of-one.git /tmp/repo
 cd /tmp/repo
 
 # Build image
